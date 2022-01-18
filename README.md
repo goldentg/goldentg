@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/goldencodex" target="blank"><img src="https://img.shields.io/twitter/follow/goldencodex?logo=twitter&style=for-the-badge" alt="goldencodex" /></a> </p>
 
+- 🏫Studying Network Systems
+
 - 🔭 I’m currently working on [Nyme](https://github.com/goldentg/Nyme)
 
 - 📫 How to reach me **goldentgcoding@gmail.com**
