@@ -7,7 +7,7 @@
 # 💫About Me :
 - 🏫Studying Network Systems
 
-- 🔭 I’m currently working on [Nyme](https://github.com/goldentg/Nyme)
+- 🔭 I’m currently working on [Jyme](https://github.com/goldentg/Jyme)
 
 - 📫 How to reach me **goldentgcoding@gmail.com**
 
