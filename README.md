@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm goldentg</h1>
+<h1 align="center">Hi 👋, I'm Evan</h1>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&multiline=true&width=800&height=100&lines=A+passionate+networking+student+from+Canada)](https://git.io/typing-svg)
