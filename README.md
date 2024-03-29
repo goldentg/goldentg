@@ -7,7 +7,7 @@
 # 💫About Me :
 - 🏫Studying Network Systems
 
-- 🔭 I’m currently working on [AdventureGO]([https://github.com/goldentg/Jyme](https://github.com/TeamAdventureGo))
+- 🔭 I’m currently working on a super secret multiplatform application 👀
 
 - 📫 How to reach me **goldentgcoding@gmail.com**
 
