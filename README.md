@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a super secret multiplatform application 👀
 
-- 📫 How to reach me **goldentgcoding@gmail.com**
+- 📫 How to reach me **evan@evannorman.ca**
 
 - [Check out my Portfolio](https://evannorman.ca)
 
