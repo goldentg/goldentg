@@ -9,7 +9,7 @@
 
 - 🔭 Currently working in Application Development
 
-- I ❤️ Kotlin
+- I ❤️ Kotlin Multiplatform
 
 - 📫 How to reach me **evan@evannorman.ca**
 
